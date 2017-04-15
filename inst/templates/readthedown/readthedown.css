@@ -682,7 +682,7 @@ a {
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: 0 2em;
-    color:#c7254e;
+    color:green;
     font-weight: 300;
     padding: .125em 1px 0 1px;
     transition: background-position .15s, color .15s;
@@ -691,7 +691,7 @@ a {
 #main a:hover {
     text-decoration: none;
     background-position: 0 0.3em;
-    color: #ffffff;
+    color: green;
 }
 
 a:hover, a:active{
@@ -699,10 +699,10 @@ a:hover, a:active{
 }
 
 a:hover{
-    color:#3d1308}
+    color:green}
 
 a:visited{
-    color:#3d1308}
+    color:green}
 
 .left{
     text-align:left}
